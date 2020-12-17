@@ -36,7 +36,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> A react job portal . It
+                        <strong>Description:</strong> A job portal web app. It
                         fetches jobs data from Github Jobs API
                         <hr />
                       </Card.Body>
